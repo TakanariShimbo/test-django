@@ -32,4 +32,5 @@ pip install -r requirements.txt
 
 ```
 django-admin startproject myproject .
+python manage.py startapp myapp
 ```
