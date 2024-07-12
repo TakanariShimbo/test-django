@@ -31,5 +31,5 @@ pip install -r requirements.txt
 ## 📝 Memo
 
 ```
-
+django-admin startproject myproject .
 ```
